@@ -2,7 +2,7 @@
 Dependencies :
 ejs,express,nodeJS,myPeer,socket.io
 
-express : npm i express
+express : npm i express\n
 ejs : npm i ejs
 myPeer : npm i mypeer
 sockert.io : npm i socket.io
